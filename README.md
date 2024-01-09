@@ -2,10 +2,10 @@
 
 Sou apaixonado por desenvolvimento de software e estou sempre em busca de aprender coisas novas. Aqui estão algumas das minhas habilidades:
 
-- 👨‍💻 JavaScript | TypeScript | Node.js
-- ⚛️ React
-- 🌐 HTML | CSS
-- ☁️ AZ-900 (Certificação Microsoft Azure Fundamentals)
+#### Linguagens e Tecnologias
+- 👨‍💻 **JavaScript | React | TypeScript | Node.js**
+- 🌐 **HTML | CSS**
+- ☁️ **AZ-900 (Certificação Microsoft Azure Fundamentals)**
 
 Gosto de trabalhar em projetos desafiadores e estou sempre aberto a oportunidades para colaborar em novos projetos. 
 
