@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou [João Santos] 👋
 
-<!--
-**JaumSantos5/JaumSantos5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por desenvolvimento de software e estou sempre em busca de aprender coisas novas. Aqui estão algumas das minhas habilidades:
 
-Here are some ideas to get you started:
+- 👨‍💻 JavaScript | TypeScript | Node.js
+- ⚛️ React
+- 🌐 HTML | CSS
+- ☁️ AZ-900 (Certificação Microsoft Azure Fundamentals)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de trabalhar em projetos desafiadores e estou sempre aberto a oportunidades para colaborar em novos projetos. 
+
+Você pode me encontrar também no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-monteiro-santos-434841239/).
+
+Vamos nos conectar e desenvolver coisas incríveis juntos! 🚀
+
