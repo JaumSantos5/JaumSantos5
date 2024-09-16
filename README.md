@@ -1,6 +1,6 @@
 ### Olá, eu sou [João Santos] 👋
 
-Sou apaixonado por desenvolvimento de software e estou sempre em busca de aprender coisas novas. Aqui estão algumas das minhas habilidades:
+Sou apaixonado por desenvolvimento web e estou sempre em busca de aprender coisas novas. Aqui estão algumas das minhas habilidades:
 
 #### Linguagens e Tecnologias
 - 👨‍💻 **JavaScript | React | TypeScript | Node.js**
