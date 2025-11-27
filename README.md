@@ -4,25 +4,29 @@ Desenvolvedor FullStack
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/7-rafael-santos/1/)
-[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/R4NP3R/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jo%C3%A3o-victor-monteiro-santos-434841239/)
 
 
 ### Habilidades 
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Bootstrap](https://img.shields.io/badge/BootStrap-000?style=for-the-badge&logo=bootstrap&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFFF00)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typeScript&logoColor=3178c6)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B23)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=3178c6)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" title="Cloud - AWS" alt="AWS" width="40" height="40"/>&nbsp;
+</div>
+
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaumSantos5&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=48C83A)
 
-## Linguagens
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=R4NP3R&layout=compact&bg_color=000&border_color=30A3DC&title_color=48C83A&text_color=48C83A)
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaumSantos5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaumSantos5&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ## Projetos
 
