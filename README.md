@@ -24,15 +24,11 @@ Desenvolvedor FullStack
 
 
 ### GitHub Stats
-
+<div>
+  <a href="https://github.com/JaumSantos5">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaumSantos5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaumSantos5&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-## Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=R4NP3R&repo=projeto_Mensalidade&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=FFF)](https://github.com/R4NP3R/projeto_mensalidade)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=R4NP3R&repo=efood&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=FFF)](https://github.com/R4NP3R/efood)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=R4NP3R&repo=clone_disneyplus&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=FFF)](https://github.com/R4NP3R/clone_disneyplus)
 
