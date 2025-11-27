@@ -19,7 +19,7 @@ Desenvolvedor FullStack
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=3178c6)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4NP3R&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=48C83A)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaumSantos5&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=48C83A)
 
 ## Linguagens
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=R4NP3R&layout=compact&bg_color=000&border_color=30A3DC&title_color=48C83A&text_color=48C83A)
